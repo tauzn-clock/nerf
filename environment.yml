@@ -1,6 +1,7 @@
 # To run: conda env create -f environment.yml
 name: nerf
 channels:
+    - defaults
     - conda-forge
 dependencies:
     - python=3.7
