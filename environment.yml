@@ -8,8 +8,6 @@ dependencies:
     - pip
     - cudatoolkit=10.0.130
     - tensorflow-gpu==1.15
-    - numpy=1.19.5
-    - matplotlib=3.5.2
     - imageio=2.19.0
     - imageio-ffmpeg=0.4.7
     - configargparse=1.5.3
